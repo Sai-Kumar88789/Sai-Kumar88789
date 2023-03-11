@@ -3,15 +3,15 @@
 
 - 🌱 I’m currently learning **Deep Learning and Computer Vision**
 
-- 👨‍💻 All of my projects are available at [saikumarPortofolio.com](saikumarPortofolio.com)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/saikumarofficial).
 
-- 📝 I regularly write articles on [saikumar.blogger.com](saikumar.blogger.com)
+- 📝 I write blogs on [Medium](https://medium.com/@sai680513).
 
 - 💬 Ask me about **Python and Machine learning**
 
 - 📫 How to reach me **sai680513@gmail.com**
 
-- 📄 Know about my experiences [myresume.com](myresume.com)
+- 📄 Know about my experiences [MyResume](https://drive.google.com/file/d/1H_LZ3sjfR2UOV3gEvBEty6tMs_ZuxbEy/view?usp=drivesdk).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

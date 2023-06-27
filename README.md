@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **sai680513@gmail.com**
 
-- 📄 Know about my experiences [MyResume](https://drive.google.com/file/d/1H_LZ3sjfR2UOV3gEvBEty6tMs_ZuxbEy/view?usp=drivesdk).
+- 📄 Know about my experiences [MyResume](https://drive.google.com/file/d/1H_LZ3sjfR2UOV3gEvBEty6tMsk).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

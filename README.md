@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sai Kumar</h1>
+<h1 align="center">Hi 👋, I'm Sai Kumar Seela</h1>
 <h3 align="center">Data Science Enthusiast</h3>
 
 - 🌱 I’m currently learning **GenAI, Fine-tuning LLMs and RAG Pipelines**
